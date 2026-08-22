@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to Link Nacional!
 
-Founded in 2004, Link Nacional is a Brazilian company with a global reach, specializing in high-performance web solutions[cite: 4]. [cite_start]We transform our clients' digital environments by handling technical complexities so they can focus on what matters most: their own business.
+Founded in 2004, Link Nacional is a Brazilian company with a global reach, specializing in high-performance web solutions. We transform our clients' digital environments by handling technical complexities so they can focus on what matters most: their own business.
 
 Our mission is simple: **"Provide high-reliability solutions and support."** 
 
