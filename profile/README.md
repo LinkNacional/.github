@@ -8,7 +8,7 @@ Our mission is simple: **"Provide high-reliability solutions and support."**
 
 We have deep know-how in creating, managing, and maintaining websites, with absolute excellence in [WordPress](https://www.linknacional.com.br/wordpress) Our ecosystem includes:
 
-* **Official Plugins & Themes:** We are developers of official plugins for the WordPress MarketPlace and creators of customized themes.
+* **Official Plugins & Themes:** We are developers of official plugins for the WordPress MarketPlace, [Woocommerce](https://www.linknacional.com.br/wordpress/woocommerce/) and creators of customized themes with Gutenberg and Astro.
 * **In-House Custom Solutions:** We develop our own custom plugins to meet specific market needs, such as Payment Link, Payment Gateway (Cielo, Rede, PIX), WP Brazilian Checkout, WP Travel Engine, WHMCS Login Integration, and Secure Custom Fields.
 * **Complex Integrations:** We build everything from high-conversion e-commerce stores (WooCommerce) and LMS educational portals to national and international online donation platforms.
 * **High Performance:** We utilize a 100% cloud-based infrastructure (running in containers) with advanced optimization techniques to ensure maximum speed and agility.
